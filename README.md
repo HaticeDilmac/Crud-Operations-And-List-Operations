@@ -1,16 +1,8 @@
-# sqflite_simple_project
+# Crud Operations And List Operations
 
-A new Flutter project.
+  - In the application, two different lists and their shapes are kept and these lists are added to each other in another place and displayed in a separate section, the color of these data is determined according to their prices, and the combined lists are ordered according to their price.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+	- Uygulama içerisinde iki farklı liste ve şeklinin tutulduğu ve bu listelerin başka bir yere birbirlerine eklenerek ayrı kısımda gösterilmesi ve bu verilerin fiyatlarına göre renk belirlenmesi ayrıca birleştirilen listelerin ise fiyatına göre sıralanması sağlanmıştır.
+	
+  
+  ![list_operations](https://user-images.githubusercontent.com/100489350/235377551-24c16fca-ed2b-4779-b79b-55e9b31a2475.png)
